@@ -1,9 +1,9 @@
 {
-  "name": "nft-market",
-  "displayName": "nft-market",
+  "name": "switch-button",
+  "displayName": "switch-button",
   "expo": {
-    "name": "nft-market",
-    "slug": "nft-market",
+    "name": "switch-button",
+    "slug": "switch-button",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
